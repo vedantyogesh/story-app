@@ -1,5 +1,5 @@
 # Story App
-
+The working model of the app is hosted here : http://storyapp.ml/
 ## Tech Stack
 
 1. React
