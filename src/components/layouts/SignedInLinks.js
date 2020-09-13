@@ -16,7 +16,7 @@ function SignedInLinks(props) {
       </li>
       <li>
         {' '}
-        <a href='#' onClick={props.signOut}>
+        <a href='/' onClick={props.signOut}>
           {' '}
           Log Out{' '}
         </a>
